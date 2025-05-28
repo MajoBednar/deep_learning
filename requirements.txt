@@ -1,2 +1,4 @@
-h5py
+h5py~=3.13.0
 scikit-learn
+numpy~=2.2.5
+scipy~=1.15.3
